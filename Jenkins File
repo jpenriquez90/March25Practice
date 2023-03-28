@@ -1,0 +1,4 @@
+echo "Practice for Jenkins"
+dir
+echo "Another command"
+echo "Josh"
